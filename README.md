@@ -9,5 +9,7 @@ In the setup.sh script under #Removing pre-installed packages you can select whi
 Usage:
 
 git clone https://github.com/Novaturiente/fedora_setup.git
+
 chmod +x setup.sh
+
 ./setup.sh
